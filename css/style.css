@@ -1,0 +1,36 @@
+hr {
+    border-top: 4px solid #7d97ad
+}
+
+body {
+    color:#2d3c49;
+    font-family: 'Poiret One', cursive;
+}
+
+footer {
+    font-size:1.5em;
+    padding-top:20px;
+}
+
+.logo {
+    height: 100%;
+}
+
+.toptitle {
+    color:#2d3c49;
+}
+
+.main {
+    height: auto;
+    width: auto;
+    vertical-align: middle;
+}
+
+.carousel-caption {
+    color:white;
+    background:rgba(38, 12, 12, 0.9);
+}
+
+#featured-work {
+    padding-bottom: 10px;
+}
